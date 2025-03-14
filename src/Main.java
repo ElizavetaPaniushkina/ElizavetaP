@@ -11,8 +11,8 @@ public class Main {
         int[] arr4 = findDominant(arr3);
         printArray(arr4);
         int[] arr5 = {1, 2, 3, 4, 5};
-        int[] arr6 = rotateArray(arr5, 2);
-        printArray(arr6);
+        int[] arr9 = rotateArray(arr5, 2);
+        printArray(arr9);
     }
 
     public static void printArray(int[] arr) {
